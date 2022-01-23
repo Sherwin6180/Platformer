@@ -1,0 +1,28 @@
+Introduction:
+This is an adventure game, when you collect enough
+gold coins you can move on to the next level.
+
+Keys explained:
+left key-move left
+right key-move right
+down key- move down
+space - jump
+Q key - dig
+W key - use trampoline to jump
+1 key - pick trampoline
+2 key - place trampoline
+
+Items explained:
+1. Hammer: With hammer, you could dig(sounds wierd, I know) dirt blocks(brown) 
+and gold blocks(yellow), but you cannot dig iron blocks(grey). The hammer will 
+be destroyed after digging three dirt blocks (of course if you want to dig gold 
+blocks your hammer will be destroyed faster), you must go get a new hammer in order 
+to continue digging.
+2. Trampoline: The height that your player can jump is limited, so you need to jump 
+to a higher platform with the help of trampoline. You can take the trampoline to the 
+position you want. But please note that you can't pick the hammer when you are carrying 
+the trampoline.
+3. Monster: The monster will only move within a specific range and you will get hurt 
+if you run into it (I know it's not that easy to get hurt by him).
+
+After you collect 50 coins, a wormhole will appear and carries you to the next level.
